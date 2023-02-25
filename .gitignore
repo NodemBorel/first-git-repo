@@ -1,0 +1,3 @@
+#ignore alll= .txt file
+
+*.txt
